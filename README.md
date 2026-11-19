@@ -1,6 +1,6 @@
 # Vita Moonlight
 
-Vita Moonlight is a PlayStation Vita port of Moonlight, with major improvements for usability, pairing, device management, and now advanced touch, multitouch, and DS4 touchpad emulation.
+Vita Moonlight is a **PlayStation Vita game streaming client** based on Moonlight. This fork improves PC pairing, host management, touchscreen and multitouch input, DS4 touchpad emulation, and Wake-on-LAN for streaming games from Sunshine-compatible hosts.
 
 ## Highlights (0.13.2)
 
